@@ -1,4 +1,6 @@
-#### Main Two types of Machine LEarning algorithms are Supervised Learning and Unsupervised Algorithm
+# Main Two types of Machine LEarning algorithms are Supervised Learning and Unsupervised Algorithm.
+
+##### - S
 
 
 # Classification-Supervised-Learning--Machine-Learning
